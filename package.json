@@ -31,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/LiDengHui/diff-json.git"
   }
 }
